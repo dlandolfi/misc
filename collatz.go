@@ -41,5 +41,5 @@ func collatz(n int) {
 		i++
 		fmt.Println(n)
 	}
-	fmt.Println("This algorithm went through", i, "interations.")
+	fmt.Println("This algorithm went through", i, "iterations.")
 }
